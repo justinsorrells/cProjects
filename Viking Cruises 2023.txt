@@ -1,0 +1,15 @@
+1|Rhine Getaway|8|Amsterdam|Kinderkijk|Cologne|Koblenz/Rudesheim|Speyer|Strasbourg|Breisach|Basel
+2|Romantic Danube|7|Budapest|Budapest/Danube|Vienna|Krems/Danube|Passau|Regensburg|Regensburg
+3|Danbe Waltz|8|Budapest|Budapest|Bratislava|Vienna|Krems/Danube|Linz|Passau|Passau
+4|Grand European Tour|15|Amsterdam|Kinderkijk|Cologne|Koblenz/Rhine|Miltenberg|Wurzburg|Bamberg|Nuremburg|Regensburg|Passau|Melk|Vienna|Vienna|Budapest|Budapest
+5|Paris to Swiss Alps|12|Paris|Paris|Trier/Bernkastel|Reims/Trier|Cochem|Koblenz/Rhine|Mainz|Speyer|Strasbourg|Basel/Zurich|Zurich|Zurich
+6|Cities of Light|12|Paris|Paris|Reims/Trier|Trier/Bernkastel|Cochem|Koblenz|Heidelberg|Wurzburg|Main River/Bamberg|Nurembur/Prague|Prague|Prague
+7|Paris and the Heart of Normandy|8|Paris|Paris|La Roche-Guyon/Giverny|Seine/Rouen|Normandy Beaches|Seine/Les Andelys|Le Pecq/Paris|Paris
+8|Lyon & Provence|8|Avignon|Aries|Avignon|Viviers|Tourmon/Vienne|Lyon|Lyon|Lyon
+9|Chateaux, Rivers & Wine|8|Bordeaux|Bordeaux/Cadillac|Cadillac/Garonne & Dordogne Rivers|Libourne/Saint-Emilion|Bourg/Blaye|Medoc & Margaux Wine Country|Gironde River/Bordeaux|Bordeaux
+10|Holland & Belgium|10|Amsterdam|Amsterdam|Hoorn|Bordrecht/Rotterdam|Kinderdijk|Wesel|Nijmegen|Maastrich|Antwerp|Antwerp
+11|Capitals of Eastern Europe|17|Vienna|Vienna|Vienna|Bratislave/Danube Bend|Budapest|Budapest|Mohacs|Vukovar/Ilok|Novi Sad|Belgrade|Donji Milanovac/Danube River|Vidin|Pleven|Constantja|Bucharest|Bucharest|Bucharest
+12|Passage to Eastern Europe|11|Budapest|Budapest|Budapest|Kalocsa|Osijek|Belgrade|Golubac/Danube River|Vidin|Veliko Tarnovo|Bucharest|Bucharest
+13|Elegant Elbe|10|Berlin|Berlin|Potsdam/Wittenberg|Wittenberg|Meissen|Dresden|Elbe River/Saxon Switzerland|Prague|Prague|Prague
+14|Portugal's River of Gold|10|Lisbon|Lisbon|Porto|Regua|Douro River/Barca d'Alva|Salamanca|Douro River/Porto|Regua/Porto|Porto|Porto
+15|Pharaohs & Pyramids|12|Cairo|Cairo|Cairo|Luxor|Luxor|Qena|Esna|Aswan|Aswan/Kom Ombo|Edfu/Luxor|Cairo|Cairo
